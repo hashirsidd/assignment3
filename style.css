@@ -1,0 +1,171 @@
+body{
+    padding: 0;
+    margin: 0;
+    
+}
+.container-fluid{
+    background-color: #316dc3;
+    min-height: 50px;
+}
+.row1{
+ 
+    color: #fff;
+}
+
+.text-top p{
+
+    margin: 10px ;
+    text-align: center;
+
+}
+.icons-top div{
+padding-left: 80px !important;
+}
+.icons-top i{
+    padding-right: 40px;
+    padding-top: 15px;
+}
+
+.button-3{
+font-size: 12px;
+color: darkolivegreen;
+padding-right: 10px !important;
+padding-top: 12px !important ;
+
+}
+.button-3 button{
+    width:90px;
+}
+
+.icons-top i:hover{
+    transition: all 0.4s ease-in-out 0s !important;
+    cursor: pointer;
+    color: rgb(30, 2, 109);
+}
+.navbar>button{
+    position: absolute;
+    right:10px;
+    top:20px;
+}
+.navbar-nav{
+    font-size: 14px;
+    position: relative;
+    right: -200px;
+}
+.navbar{
+    border-bottom: 1px solid rgb(110, 110, 110);
+
+}   
+.nav-item>a{
+
+        border-radius: 50px;
+        color: #000;
+        padding:10px 20px 10px 20px !important;
+
+}
+
+
+.nav-item a:hover{
+    background-color: #316dc3;
+    color: #fff !important;
+    transition: all 0.3s ease-in-out 0s !important;
+}
+.aa{
+    background-color: #316dc3;
+    color:#fff !important;
+}
+.dropdown-menu a{
+    font-size: 12px;
+    margin:5px auto;
+}
+div>h1{
+    color:#316dc3;
+}
+.main-text{
+    margin:0 auto;
+    text-align: center;
+}
+marquee{
+    background-color: #316dc3;
+    color: #fff;
+    margin-left: auto;
+    margin-right: auto;
+}
+.mar{
+    text-align: center;
+    background-color: white;
+}
+green{
+    color: rgb(77, 255, 77);
+}
+.text{
+    text-align: justify;
+    color: rgb(83, 83, 83);
+}
+body{
+    background-color: #f8f9fa !important;
+
+}
+.count{
+    margin: 80px 0px;
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.count H1{
+    font-size: 50px;
+    font-family: 'Merriweather', serif;
+    color:white;
+}
+.doing{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif !important;
+    font-weight: 400 !important;
+}
+.boxes{
+    color:  #316dc3;
+}
+.boxes div{
+    background-color: #fff;
+    box-shadow: 0px 0px 25px  rgba(0, 0, 0, 0.3) ;
+    height: 200px !important;
+    width: 500px !important;
+}
+.contact{
+    background-color: rgb(25, 30, 36);
+    color: rgb(106, 115, 119);;
+}
+.ic i{
+    font-size: 14px;
+    cursor: pointer;
+    color:#fff;
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    padding-top: 9px;
+    margin-right: 10px;
+    border-radius: 50%;
+    background-color: #316dc3;
+}
+.o1{
+    height:10px;
+    width: 50px !important;
+    display: inline-block;
+    border-top: 2px solid green;
+
+}
+.o2{
+    height:9px;
+    width: 300px !important;
+    display: inline-block;
+    border-top: 1px solid rgb(82, 82, 82);
+    
+}
+.foot-p{
+    font-size: 14p;;
+    font-family: monospace;
+    color: #fff;
+    padding-top: 15px;
+    padding-left: 100px ;
+}
